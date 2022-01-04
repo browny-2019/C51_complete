@@ -1,0 +1,27 @@
+h3{color:darkblue}
+.menu{display:flex;
+justify-content: space-between;
+background-color: #000000;
+padding:15px;
+font-size: 20px;
+font-family: sans-serif;
+font-weight: 400;
+color:#fffaf0}
+.grid{display:flex;
+flex-wrap: wrap;
+font-family: sans-serif;}
+.item{border-radius: 20px;
+background-color:cornflowerblue;
+padding:30px;
+width:310px;
+font-family: fantasy;
+margin:8px;}
+.grid img{
+    border:2px solid #000000;
+    border-radius: 50px;
+}
+body{
+    margin:0px;
+    background-color:blanchedalmond;
+}
+
